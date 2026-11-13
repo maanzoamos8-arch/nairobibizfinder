@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nairobi Biz Finder - Find Businesses in Nairobi</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#f4f4f4}
+header{background:#0a7a42;color:white;padding:20px;text-align:center}
+header h1{margin:0;font-size:28px}
+header p{margin:5px 0}
+.ad-banner{background:#ffcc00;color:#000;text-align:center;padding:15px;font-weight:bold;font-size:18px}
+.ad-banner a{background:#000;color:#ffcc00;padding:8px 15px;text-decoration:none;border-radius:20px}
+.search{padding:15px;text-align:center}
+.search input{width:80%;padding:12px;border-radius:20px;border:1px solid #ccc;font-size:16px}
+.categories{display:flex;gap:10px;overflow-x:auto;padding:10px 15px}
+.categories span{background:white;padding:8px 15px;border-radius:20px;white-space:nowrap;border:1px solid #ddd}
+.card{background:white;margin:12px;border-radius:12px;padding:15px;box-shadow:0 2px 5px rgba(0,0,0,0.1)}
+.card.featured{border:2px solid #ffcc00;background:#fffbe6}
+.badge{background:#ffcc00;padding:3px 8px;border-radius:10px;font-size:12px;font-weight:bold}
+.card h3{margin:8px 0 5px}
+.card p{margin:3px 0;color:#555;font-size:14px}
+.btn{display:inline-block;margin-top:10px;padding:10px 15px;border-radius:20px;text-decoration:none;font-weight:bold}
+.whatsapp{background:#25D366;color:white}
+.call{background:#0a7a42;color:white}
+.pricing{background:white;margin:12px;padding:20px;border-radius:12px;text-align:center}
+.pricing h2{margin-top:0}
+footer{background:#222;color:white;text-align:center;padding:20px;font-size:14px}
+</style>
+</head>
+<body>
+
+
+<header>
+<h1>📍 Nairobi Biz Finder</h1>
+<p>Find Salons, Shops, Plumbers, Restaurants in All Nairobi</p>
+<p>⭐ Trusted by Nairobi Businesses</p>
+</header>
+
+
+<div class="ad-banner">
+🔥 YOUR BUSINESS HERE - Advertise for 1,000 KES / Month
+<br><br>
+<a href="https://wa.me/254759489394?text=Hi, I want to advertise on Nairobi Biz Finder">Advertise Now</a>
+</div>
+
+
+<div class="search">
+<input type="text" placeholder="Search... e.g Salon in Westlands, Plumber in Roysambu">
+</div>
+
+
+<div class="categories">
+<span>💇 Salons</span><span>🍔 Restaurants</span><span>🔧 Plumbers</span><span>📱 Phones</span><span>👗 Boutiques</span><span>🚗 Garages</span>
+</div>
+
+
+<div class="card featured">
+<span class="badge">⭐ FEATURED - PAID ADVERT</span>
+<h3>Glory Hair Salon - Westlands</h3>
+<p>📍 Westlands, Nairobi | ⭐ 4.9 (120 reviews)</p>
+<p>💇 Braiding, Wig Installation, Nails - Open 8am - 8pm</p>
+<a class="btn whatsapp" href="https://wa.me/254700000000">WhatsApp Now</a>
+<a class="btn call" href="tel:+254700000000">Call Now</a>
+</div>
+
+
+<div class="card">
+<h3>Kevin Electronics - CBD</h3>
+<p>📍 Luthuli Avenue, CBD | ⭐ 4.8</p>
+<p>📱 Phones, Laptops, Repairs</p>
+<a class="btn whatsapp" href="https://wa.me/254700000000">WhatsApp Now</a>
+</div>
+
+
+<div class="card">
+<h3>Mama Oliech Catering - All Nairobi</h3>
+<p>📍 Delivering All Nairobi | ⭐ 4.7</p>
+<p>🍔 Pilau, Chapati, Events Catering</p>
+<a class="btn whatsapp" href="https://wa.me/254700000000">WhatsApp Now</a>
+</div>
+
+
+<div class="pricing">
+<h2>Advertise Your Business</h2>
+<p><b>1. Basic Listing - FREE</b><br>Your name + phone</p>
+<p><b>2. Featured Listing - 1,000 KES / Month</b><br>Top of page + Gold Star + WhatsApp Button</p>
+<p><b>3. Top Banner - 3,000 KES / Month</b><br>Your banner on every page</p>
+<a class="btn whatsapp" href="https://wa.me/254700000000?text=Hi, I want Featured Listing on Nairobi Biz Finder">I Want To Advertise</a>
+</div>
+
+
+<footer>
+Nairobi Biz Finder © 2026 | All Nairobi, Kenya<br>
+Contact: WhatsApp 0700 000 000
+</footer>
+
+
+</body>
+</html>
